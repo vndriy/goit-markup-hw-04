@@ -383,7 +383,6 @@ ol {
 .slogan-footer {
   color: #f4f4fd;
   width: 264px;
-  margin-right: 120px;
 }
 
 .social-footer-title {
@@ -521,21 +520,9 @@ ol {
   height: 88px;
 }
 
-/* .customer-item {
-  height: 88px;
-  width: 168px;
-  border: 1px solid #8e8f99;
-  border-radius: 4px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-} */
-
-/* .customer-icon {
-  width: 104px;
-  height: 56px;
-  fill: #8e8f99;
-} */
+.customer-icon {
+  fill: currentColor;
+}
 
 .customer-link {
   width: 100%;
